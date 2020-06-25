@@ -65,6 +65,10 @@
       "url":"https://managerwriteless.teleperformance.co/Netflix/Writeless-Manager/Home/Login"
     },
     {
+      "codigo":"Orange",
+      "url":"https://managerwriteless.teleperformance.co/Orange/Writeless-Manager/Home/Login"
+     },
+    {
       "codigo":"VivintSH",
       "url":"https://managerwriteless.teleperformance.co/VivintSH/Writeless-Manager/Home/Login"
     },
