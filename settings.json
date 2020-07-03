@@ -79,6 +79,14 @@
         {
       "codigo":"Banistmo",
       "url":"https://managerwriteless.teleperformance.co/Banistmo/Writeless-Manager/Home/Login"
+    },
+    {
+      "codigo":"MEXAVIS",
+      "url": "https://demostp.tpmex.com/tpwritelessmanager_avis/home/login"
+    },
+    {
+      "codigo":"MEXCOMC",
+      "url": "https://demostp.tpmex.com/tpwritelessmanager_comcast/home/login"
     }
     
   ]
