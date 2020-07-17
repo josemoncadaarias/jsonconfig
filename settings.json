@@ -1,5 +1,6 @@
 {
- "connections": [{
+ "connections": [
+  {
    "codigo": "3325647",
    "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/SpeechToText-Manager/Home/Login"
   },
@@ -86,11 +87,8 @@
   {
    "codigo": "MEXCOMC",
    "url": "https://demostp.tpmex.com/tpwritelessmanager_comcast/home/login"
-  },
-  {
-   "codigo": "MEXSIRIUS",
-   "url": "https://demostp.tpmex.com/tpwritelessmanager_siriusxm/home/login"
-  },
+  }
+
 
  ]
 }
