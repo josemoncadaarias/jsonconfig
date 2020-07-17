@@ -1,7 +1,5 @@
 {
  "connections": [
-
-
   {
    "codigo": "55885",
    "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESANequi/SpeechToTextManager/Home/Login"
@@ -81,6 +79,10 @@
   {
    "codigo": "MEXCOMC",
    "url": "https://demostp.tpmex.com/tpwritelessmanager_comcast/home/login"
+  },
+  {
+   "codigo": "MEXSIRIUS",
+   "url": "https://demostp.tpmex.com/tpwritelessmanager_siriusxm/home/login"
   }
 
 
