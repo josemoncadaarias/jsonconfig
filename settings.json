@@ -1,13 +1,7 @@
 {
  "connections": [
-  {
-   "codigo": "3325647",
-   "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/SpeechToText-Manager/Home/Login"
-  },
-  {
-   "codigo": "88654",
-   "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESABanistmo/SpeechToTextManager/Home/Login"
-  },
+
+
   {
    "codigo": "55885",
    "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESANequi/SpeechToTextManager/Home/Login"
