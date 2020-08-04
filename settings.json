@@ -88,10 +88,7 @@
    "codigo": "ARG",
    "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/TPWriteless-Manager/Home/Login"
   },
-  {
-   "codigo": "TEST",
-   "url": "http://localhost:49258/Home/Index"
-  },
+
 {
   "codigo":"MEXZIPCAR",
   "url": "https://demostp.tpmex.com/tpwritelessmanager_zipcar/home/login"
