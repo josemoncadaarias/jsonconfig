@@ -92,6 +92,13 @@
    "codigo": "MEXSIRIUS",
    "url": "https://demostp.tpmex.com/tpwritelessmanager_siriusxm/home/login"
   },
+    {
+
+   "codigo": "Aura",
+
+   "url": "https://managerwriteless.teleperformance.co/Aura/WriteLess-manager/Home/Login"
+
+  },
   {
    "codigo": "ARG",
    "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/TPWritelessSpain/SpeechToText-Manager/Home/Login"
