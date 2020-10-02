@@ -123,11 +123,10 @@
   "codigo":"MXCOMCAST",
   "url": "https://tpwriteless-comcast.tpmex.com/tpwritelessmanager_comcast/home/login"
 },
-  
-  {
+ {
   "codigo":"BRDOM",
   "url": "https://tpwriteless.teleperformance.com.br/SpeechToText-Manager/Home/Login"
-},
+ }
   
 
  ]
