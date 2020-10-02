@@ -127,8 +127,18 @@
    {
   "codigo":"AP01",
   "url": "http://tpccd-ap01.teleperformance.co/SpeechToText-Manager/home/Login"
+ },
+     {
+  "codigo":"Disney",
+  "url": "https://tpwriteless.teleperformance.com.br/Disney/SpeechToText-Manager/Home/Login"
+ },
+     {
+  "codigo":"Viavarejo",
+  "url": "https://tpwriteless.teleperformance.com.br/Viavarejo/SpeechToText-Manager/Home/Login"
  }
   
+
+
 
  ]
 }
