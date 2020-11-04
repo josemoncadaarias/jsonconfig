@@ -135,10 +135,10 @@
      {
   "codigo":"Viavarejo",
   "url": "https://tpwriteless.teleperformance.com.br/Viavarejo/SpeechToText-Manager/Home/Login"
+ },
+     {
+  "codigo":"Meli",
+  "url": "https://tpwriteless.teleperformance.com.br/Meli/SpeechToText-Manager/Home/Login"
  }
-  
-
-
-
  ]
 }
