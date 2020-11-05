@@ -139,6 +139,10 @@
      {
   "codigo":"Meli",
   "url": "https://tpwriteless.teleperformance.com.br/Meli/SpeechToText-Manager/Home/Login"
- }
+ },
+  {
+  "codigo":"MEXAVISTPW",
+  "url": "https://demostp.tpmex.com/tpwrlmanager_avis/home/login"
+}
  ]
 }
