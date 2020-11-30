@@ -143,6 +143,10 @@
   {
   "codigo":"MEXAVISTPW",
   "url": "https://demostp.tpmex.com/tpwrlmanager_avis/home/login"
+},
+    {
+  "codigo":"PORTUGAL",
+  "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/TPWriteless/Portugal/Manager/Home/Login"
 }
  ]
 }
