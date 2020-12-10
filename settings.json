@@ -147,6 +147,11 @@
     {
   "codigo":"PORTUGAL",
   "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/TPWriteless/Portugal/Manager/Home/Login"
+},
+  
+    {
+  "codigo":"InstacartPeru",
+  "url": "https://managerwriteless.teleperformance.co/InstacartPeru/Writeless-Manager/Home/Login"
 }
  ]
 }
