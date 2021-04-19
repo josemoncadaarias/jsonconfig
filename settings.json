@@ -152,6 +152,14 @@
     {
   "codigo":"InstacartPeru",
   "url": "https://managerwriteless.teleperformance.co/InstacartPeru/Writeless-Manager/Home/Login"
+},
+{
+"codigo":"MonatGlobal",
+"url": "https://managerwriteless.teleperformance.co/MonatGlobal/Writeless-Manager/Home/Login"
+},
+{
+"codigo":"DisneyCol",
+"url": "https://managerwriteless.teleperformance.co/Disney/Writeless-Manager/Home/Login"
 }
  ]
 }
